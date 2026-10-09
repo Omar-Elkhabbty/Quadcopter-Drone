@@ -1,4 +1,4 @@
-# 🛸 ESP32-FlightCore-GPS
+# 🛸 Quadqopter drone
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)
